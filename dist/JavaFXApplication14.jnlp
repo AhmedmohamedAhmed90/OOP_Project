@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXApplication14.jnlp">
+  <information>
+    <title>JavaFXApplication14</title>
+    <vendor>dell</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXApplication14.jar" size="42752" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxapplication14.JavaFXApplication14"  name="JavaFXApplication14" />
+  <update check="always"/>
+</jnlp>
